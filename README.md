@@ -44,22 +44,22 @@ I use various resources to improve and enhance my skills during development, suc
 ## 🌐 My Projects
 Here are some of the projects I've worked on:
 
-- **[Hospital Management System](https://yourprojectlink.com)**  
+- **[Hospital Management System](https://lifecare-hospitals.netlify.app)**  
   A full-featured web app for managing hospital activities, including patient records, doctor management, appointments, etc.
   
-- **[e-Commerce Website](https://yourprojectlink.com)**  
+- **[e-Commerce Website](http://easy-shop-env.eba-cfdzewgs.eu-north-1.elasticbeanstalk.com)**  
   A complete e-commerce platform where users can buy and sell(become a seller) products, sellers can add items in cart, manage their listings and order; Admin can manage user, and all  products.
 
-- **[Movie Guide / Suggestion App](https://yourprojectlink.com)**  
+- **[Movie Guide / Suggestion App](https://fairooz2150.github.io/MovieMan/)**  
   A movie discovery platform using **TMDB API**, where users can explore and get suggestions based on genres, ratings, etc.
 
-- **[To-Do App](https://yourprojectlink.com)**  
+- **[To-Do App](https://fairooz2150.github.io/To-Do/)**  
   A simple but effective To-Do list app built with **React.js** and **Bootstrap** to help manage daily tasks.
 
-- **[Personal Website (Updated)](https://yourprojectlink.com)**  
+- **[Personal Website (Updated)](https://fairooz2150.github.io/Fairooz/)**  
   My updated personal website showcasing my portfolio and contact details.
 
-- **[Personal Website (First Project)](https://yourprojectlink.com)**  
+- **[Personal Website (First Project)](https://fairooz2150.github.io/Fairooz-Website/)**  
   My very first project: a personal website that helped me learn HTML, CSS, and JavaScript.
 
 ## 🌐 Connect with Me
@@ -74,7 +74,7 @@ You can find me on various platforms. Feel free to reach out:
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fairooz386332)
 
 
-    📧 **Email**: [fairooz2150@gmail.com](mailto:fairooz2150@gmail.com)
+   📧 **Email**: [fairooz2150@gmail.com](mailto:fairooz2150@gmail.com)
 
 ## 📊 GitHub Stats
 
