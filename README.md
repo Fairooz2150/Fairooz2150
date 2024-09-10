@@ -74,7 +74,7 @@ You can find me on various platforms. Feel free to reach out:
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fairooz386332)
 
 
-  📧 **Email**: [fairooz2150@gmail.com](mailto:fairooz2150@gmail.com)
+    📧 **Email**: [fairooz2150@gmail.com](mailto:fairooz2150@gmail.com)
 
 ## 📊 GitHub Stats
 
