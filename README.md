@@ -32,19 +32,14 @@ With my skills and experience, I can help turn your ideas into beautiful and fun
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Muhammad Fairooz's GitHub Stats](https://github-readme-stats.vercel.app/api?fairooz2150=fairooz2150&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?fairooz2150=fairooz2150&layout=compact&theme=radical)
-
 ## 💻 Resources That Help Me
 
 I use various resources to improve and enhance my skills during development, such as:
 
-- [ChatGPT](https://openai.com)
-- [Stack Overflow](https://stackoverflow.com)
-- [W3 Schools](https://www.w3schools.com)
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%232C2C2C?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
+[![W3Schools](https://img.shields.io/badge/W3Schools-%2344A8E0?style=for-the-badge&logo=w3s&logoColor=white)](https://www.w3schools.com)
 
 ## 🌐 My Projects
 Here are some of the projects I've worked on:
@@ -67,18 +62,25 @@ Here are some of the projects I've worked on:
 - **[Personal Website (First Project)](https://yourprojectlink.com)**  
   My very first project: a personal website that helped me learn HTML, CSS, and JavaScript.
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
 You can find me on various platforms. Feel free to reach out:
 
-- [LinkedIn](www.linkedin.com/in/muhammad-fairooz-0b1136268)
-- [Instagram](https://www.instagram.com/marsh__mell_o/?igsh=MWhwZmI5NDRsMWoxMQ%3D%3D)
-- [Facebook](https://www.facebook.com/people/Muhammad-Fairooz/pfbid02TvoLEY3V6Pmhhy4d2cUgw716s7icxUtZjWuarw8THWpDWL7orgFkYMTzDibcMXVJl/)
-- [Personal Website](https://fairooz2150.github.io/Fairooz/)
-- [GitHub](https://github.com/fairooz2150)
-- [X (Twitter)](https://x.com/Fairooz386332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fairooz-0b1136268)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marsh__mell_o/?igsh=MWhwZmI5NDRsMWoxMQ%3D%3D)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Muhammad-Fairooz/pfbid02TvoLEY3V6Pmhhy4d2cUgw716s7icxUtZjWuarw8THWpDWL7orgFkYMTzDibcMXVJl/)
+[![Personal Website](https://img.shields.io/badge/Website-%23FF7F50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fairooz2150.github.io/Fairooz/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fairooz2150)
+[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fairooz386332)
 
-📧 **Email**: fairooz2150@gmail.com
+
+  📧 **Email**: [fairooz2150@gmail.com](mailto:fairooz2150@gmail.com)
+
+## 📊 GitHub Stats
+
+![Muhammad Fairooz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fairooz2150&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fairooz2150&layout=compact&theme=radical)
 
 ---
 Thanks for visiting my profile! 😃 Let's connect and collaborate!
